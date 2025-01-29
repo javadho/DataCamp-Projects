@@ -1,2 +1,3 @@
 # DataCamp-Projects
-Projects completed on Datacamp
+
+Here you can check out the projects I worked on in DataCamp to improve my skills in SQL, Power BI, and Python.
